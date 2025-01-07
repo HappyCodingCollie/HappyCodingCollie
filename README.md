@@ -1,5 +1,5 @@
 <h1 align="center">Hello, call me Collie</h1>
-<h3 align="center">Aspiring Software Engineer | Computer Science Student (Fifth Semester)</h3>
+<h3 align="center">Aspiring Software Engineer | Computer Science Student (Seventh Semester)</h3>
 
 - 🌱 I am currently dedicating my free time to learn how to work with **Git**.
 - 🎯 My goal is to become a skilled **software engineer**, with **full stack** as my path of focus.
