@@ -1,5 +1,5 @@
 <h1 align="center">Hello, call me Collie</h1>
-<h3 align="center">Aspiring Software Engineer | Computer Science Student (Seventh Semester)</h3>
+<h3 align="center">Aspiring Mobile Developer | Computer Science Student (Seventh Semester)</h3>
 
 - 🤍 I love making things, executing ideas to fruition, and working on projects.
 - 🌱 I am currently dedicating my free time to learning **Kotlin** and **Java** for **Android development**.
