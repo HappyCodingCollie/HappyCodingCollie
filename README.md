@@ -1,11 +1,11 @@
 <h1 align="center">Hello, call me Collie</h1>
-<h3 align="center">Aspiring Mobile Developer | Computer Science Student (Seventh Semester)</h3>
+<h3 align="center">Aspiring Game Developer</h3>
 
-- 🤍 I love making things, executing ideas to fruition, and working on projects.
-- 🌱 I am currently dedicating my free time to learning **C#**.
-- 🎯 My goal is to become a skilled **software engineer**, with a strong focus on **back-end development**.
-- 🎮 I also have a side interest for **game development** and **engine tooling**, especially when utilizing **Godot**. This has led me to explore lower-level languages such as **C++** and **C#**, and to develop a deeper understanding of **back-end systems**.
-- 🖳 Growing up immersed in the internet, I also became familiar with **basic web development**, working with tools like **HTML** and **CSS**.
+- 🤍 Heya! I love creating things, improving my skills, and helping others.
+- 🌱 Currently I am improving my foundation and sharpening my programming skills.
+- 🎯 My long-term goal is to become a skilled **game developer**, with a strong focus on **back-end development**.
+- 🛠️ I am also interested in things such as **hardware**, **infrastructure** and **cyber security**.
+- 🖳 Growing up immersed on the internet, I also became familiar with **basic web development** (HTML and CSS),
 
 <h3 align="left">Skills:</h3>
 <p align="center">
