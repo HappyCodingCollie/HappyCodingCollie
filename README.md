@@ -1,10 +1,11 @@
 <h1 align="center">Hello, call me Collie</h1>
-<h3 align="center">Aspiring Game Developer</h3>
+<h3 align="center">Computer Science Graduate | Data & Back-End Enthusiast</h3>
 
-- 🤍 Heya! I love creating things, improving my skills, and helping others.
-- 🌱 Currently I am improving my foundation and sharpening my programming skills.
-- 🎯 My long-term goal is to become a skilled **game developer**, with a strong focus on **back-end development**.
-- 🛠️ I am also interested in things such as **hardware**, **infrastructure**, and **cyber security**.
+- 🤍 Heya! I love creating things, improving my skills, and helping others;
+- 🎓 B.Sc. in Computer Science; 🚚 Tech in logistics;
+- 📊 Interested in Data Analysis, back-end systems, and applied problem solving;
+  🌱 Currently strengthening my skills in **SQL** and **data analysis**, focusing on **logistics and supply chain** applications.
+- 🎯 My long-term goal is to build strong expertise in **back-end development** and **system design**, aiming to grow into **IT architecture** roles over time.
 - 🖳 Growing up immersed on the internet, I also became familiar with **basic web development** (HTML and CSS).
 
 <h3 align="left">Skills:</h3>
@@ -13,4 +14,5 @@
     <img src="https://skillicons.dev/icons?i=vscode,godot,git,py,cs,cpp,java,npm,js,css,html" />
   </a>
 </p>
+
 
